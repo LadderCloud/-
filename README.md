@@ -9,7 +9,7 @@
 当发生网络波动、GFT封锁或官方域名被墙时，请认准以下唯一合法的官方自救通道。建议复制并保存防失联网址：
 
 * 📢 **Telegram 官方防失联频道**： [点击立刻加入频道](https://t.me/+2G6oVTJor6oxMmVl) (获取每日最新节点维护公告)
-* 🌐 **最新官方通道**： [点击进入官网注册/登录](varnexa.ladderaff.com) (建议收藏防失联)
+* 🌐 **最新官方通道**： [点击进入官网注册/登录]([https://varnexa.ladderaff.com) (建议收藏防失联)
 * 📩 **商务合作/技术联络**： `tiziyun1@proton.me`
 
 ---
@@ -34,7 +34,7 @@
 | **Android** | **v2rayNG** / **Sing-box** | [v2rayNG下载](https://github.com/2dust/v2rayNG/releases) / [Sing-box下载](https://github.com/SagerNet/sing-box/releases) | 导入订阅设置 -> 刷新获取节点列表 -> 选择专线节点并点击 V 字圆圈启动 |
 | **iOS (苹果)** | **Shadowrocket (小火箭)** / **Stash** | App Store 正版海外商店下载 (需美区/港区 ID) | 复制订阅后打开小火箭自动识别添加 -> 点击未连接 -> 允许添加 VPN 配置 |
 
-> 💡 **iOS 玩家白嫖福利**：如需下载小火箭 (Shadowrocket) 但苦于没有海外 Apple ID，可直接前往 [最新官方注册通道](varnexa.ladderaff.com) 呼叫右下角在线客服，发送口令 **`我要ID`** 即可**免费领取正版海外 App Store 临时授权账号**！
+> 💡 **iOS 玩家白嫖福利**：如需下载小火箭 (Shadowrocket) 但苦于没有海外 Apple ID，可直接前往 [最新官方注册通道](https://varnexa.ladderaff.com) 呼叫右下角在线客服，发送口令 **`我要ID`** 即可**免费领取正版海外 App Store 临时授权账号**！
 
 ---
 
